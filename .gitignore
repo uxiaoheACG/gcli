@@ -1,2 +1,3 @@
 # 忽略 go build 生成的 exe 文件
 *.exe
+*.zip
